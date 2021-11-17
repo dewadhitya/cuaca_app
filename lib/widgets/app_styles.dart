@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:my_flutter_template/blocs/navigation_bloc.dart';
-import 'package:my_flutter_template/models/app_state.dart';
-import 'package:my_flutter_template/widgets/text_scale_factor_limiter.dart';
+import 'package:cuaca_app/blocs/navigation_bloc.dart';
+import 'package:cuaca_app/models/app_state.dart';
+import 'package:cuaca_app/widgets/text_scale_factor_limiter.dart';
 import 'package:rebloc/rebloc.dart';
 
 ///scaffold with back button. and default theme.

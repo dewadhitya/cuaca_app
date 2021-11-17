@@ -1,7 +1,7 @@
 // ignore_for_file: avoid_print
 
 import 'package:flutter/material.dart';
-import 'package:my_flutter_template/models/app_state.dart';
+import 'package:cuaca_app/models/app_state.dart';
 import 'package:rebloc/rebloc.dart' as rebloc;
 
 class PushNamedRouteAction extends rebloc.Action {

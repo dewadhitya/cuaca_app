@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:my_flutter_template/widgets/app_color.dart';
+import 'package:cuaca_app/widgets/app_color.dart';
 
 class AppTextStyle {
   ///

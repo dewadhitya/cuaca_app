@@ -2,8 +2,8 @@ import 'package:bot_toast/bot_toast.dart';
 import 'package:fluro/fluro.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:my_flutter_template/routes.dart';
-import 'package:my_flutter_template/util.dart';
+import 'package:cuaca_app/routes.dart';
+import 'package:cuaca_app/util.dart';
 import 'package:rebloc/rebloc.dart';
 
 import 'blocs/navigation_bloc.dart';

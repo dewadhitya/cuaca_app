@@ -1,4 +1,5 @@
 import 'package:bot_toast/bot_toast.dart';
+import 'package:cuaca_app/screens/landing.dart';
 import 'package:fluro/fluro.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -52,7 +53,7 @@ class MyApp extends StatelessWidget {
         ),
         onGenerateRoute: router.generator,
         navigatorKey: navigatorKey,
-        home: Container(),
+        home: LandingPage(),
       ),
     );
   }
